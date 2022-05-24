@@ -13,6 +13,20 @@ The goal of this project is to reproduce the famous "Pixel War" of Reddit. This 
 
 I used ReactJS from the official documentation. The previous "experience-react" allowed me to better realize this project.
 
+
+## Install
+
+```sh
+git clone https://github.com/Sn00ww/pixel-war
+```
+
+## Usage
+
+```sh
+npm i
+npm run start
+```
+
 ## Author
 
 👤 **Sn0w**
